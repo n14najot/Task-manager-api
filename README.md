@@ -18,7 +18,7 @@ Task Manager API - Bu backend xizmatlari, foydalanuvchilarni boshqarish, mahsulo
 Loyihani o‘rnatish va ishga tushirish uchun quyidagi qadamlarni bajarishingiz kerak:
 1. Repositorini klonlash
 
-git clone https://github.com/yourusername/task-manager-api.git
+git clone https://github.com/n14najot/task-manager-api.git
 cd task-manager-api
 
 2. Qaramliklarni o‘rnatish
